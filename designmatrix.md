@@ -1,7 +1,7 @@
 ---
 title: Design Matrix
 layout: home
-nav_order: 2
+nav_order: 3
 ---
 text here!
 ----
