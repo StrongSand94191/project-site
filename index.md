@@ -14,5 +14,5 @@ Sed a diam justo. Aliquam condimentum viverra nisl, sit amet ornare urna pellent
 Suspendisse augue magna, maximus non finibus ac, fringilla in nunc. Aliquam vehicula nibh metus, sagittis venenatis lacus maximus eu. Mauris a ultricies lectus. In ut dignissim tellus, non maximus lacus. Etiam vehicula et metus eu interdum. Vivamus ut dui orci. Nunc vestibulum nec purus ut efficitur.
 
 Sed ut molestie odio, vel efficitur odio. Nunc consequat aliquam dolor in luctus. Nullam viverra mauris at justo consectetur, eget egestas ante feugiat. Vestibulum porttitor porta ipsum finibus ultricies. Mauris at tristique justo. Ut vulputate semper ex, sed mattis augue. Curabitur vitae ante at lacus luctus scelerisque eget ut enim. Curabitur sed libero ac lacus sodales interdum. Nullam vel fermentum metus. Morbi quis diam libero. 
-* * *
+
 [Next: Problem Statement](https://strongsand94191.github.io/project-site/problemstatement.html){: .btn .float-right }
