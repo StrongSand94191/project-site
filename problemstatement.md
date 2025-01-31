@@ -8,5 +8,5 @@ nav_order: 2
 
 This problem statement is... etc etc
 
-[Previous: Home](https://strongsand94191.github.io/project-site/){: .btn }
-[Next: Design Matrix](https://strongsand94191.github.io/project-site/designmatrix.html){: .btn .float-right }
+[Previous: Home](https://strongsand94191.github.io/project-site/){: .btn .mb-5 }
+[Next: Design Matrix](https://strongsand94191.github.io/project-site/designmatrix.html){: .btn .float-right .mb-5 }
