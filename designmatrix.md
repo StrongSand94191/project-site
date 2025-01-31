@@ -7,5 +7,5 @@ nav_order: 3
 
 text here!
 
-[Previous: Problem Statement](https://strongsand94191.github.io/project-site/problemstatement.html){: .btn }
-[Next: Social Solution](https://strongsand94191.github.io/project-site/socialsolution.html){: .btn .float-right }
+[Previous: Problem Statement](https://strongsand94191.github.io/project-site/problemstatement.html){: .btn .mb-5}
+[Next: Social Solution](https://strongsand94191.github.io/project-site/socialsolution.html){: .btn .float-right .mb-5 }
