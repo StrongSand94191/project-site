@@ -26,7 +26,7 @@ Sed ut molestie odio, vel efficitur odio. Nunc consequat aliquam dolor in luctus
 ![](assets/proxy-image218.png) 
 {: .text-center }
 
-Description
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec magna urna. Nullam malesuada nisl quis mauris condimentum fringilla. Nulla nec nisl viverra, varius arcu quis, viverra diam.
 {: .text-center }
 
 ### Raven
@@ -34,7 +34,7 @@ Description
 ![](assets/proxy-image218.png) 
 {: .text-center }
 
-Description
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec magna urna. Nullam malesuada nisl quis mauris condimentum fringilla. Nulla nec nisl viverra, varius arcu quis, viverra diam.
 {: .text-center }
 
 ### Draylen
@@ -42,7 +42,7 @@ Description
 ![](assets/proxy-image218.png) 
 {: .text-center }
 
-Description
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec magna urna. Nullam malesuada nisl quis mauris condimentum fringilla. Nulla nec nisl viverra, varius arcu quis, viverra diam.
 {: .text-center }
 
 ### Draylin
@@ -50,7 +50,7 @@ Description
 ![](assets/proxy-image218.png) 
 {: .text-center }
 
-Description
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec magna urna. Nullam malesuada nisl quis mauris condimentum fringilla. Nulla nec nisl viverra, varius arcu quis, viverra diam.
 {: .text-center }
 
 {: .text-left }
