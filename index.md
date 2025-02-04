@@ -22,15 +22,19 @@ Sed ut molestie odio, vel efficitur odio. Nunc consequat aliquam dolor in luctus
 
 {: .text-center }
 ![](assets/proxy-image218.png) 
+
 Alex G.
 
 ![](assets/proxy-image218.png) 
+
 Raven
 
 ![](assets/proxy-image218.png) 
+
 Draylen
 
 ![](assets/proxy-image218.png) 
+
 Draylin
 
 {: .text-left }
