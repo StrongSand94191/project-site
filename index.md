@@ -23,7 +23,7 @@ Sed ut molestie odio, vel efficitur odio. Nunc consequat aliquam dolor in luctus
 {: .text-center }
 ![](assets/proxy-image218.png) 
 
-[Next: Problem Statement](https://strongsand94191.github.io/project-site/problemstatement.html){: .btn .float-right .mb-5}
-
-{: .text-center }
+{: .text-left }
 ## Everything Else
+
+[Next: Problem Statement](https://strongsand94191.github.io/project-site/problemstatement.html){: .btn .float-right .mb-5}
