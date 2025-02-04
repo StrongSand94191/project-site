@@ -4,7 +4,7 @@ layout: home
 nav_order: 2
 ---
 # Problem Statement
-> "How can we, as engineers, etc etc?"
+> "How can we, as engineers, ensure access to energy despite flooding?" 
 
 This problem statement is... etc etc
 
