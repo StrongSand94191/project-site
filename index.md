@@ -24,32 +24,32 @@ Sed ut molestie odio, vel efficitur odio. Nunc consequat aliquam dolor in luctus
 ### Alex G.
 {: .text-center }
 ![](assets/proxy-image218.png) 
-{: .text-center }
 
+{: .text-center }
 Description
 
 {: .text-center }
 ### Raven
 {: .text-center }
 ![](assets/proxy-image218.png) 
-{: .text-center }
 
+{: .text-center }
 Description
 
 {: .text-center }
 ### Draylen
 {: .text-center }
 ![](assets/proxy-image218.png) 
-{: .text-center }
 
+{: .text-center }
 Description
 
 {: .text-center }
 ### Draylin
 {: .text-center }
 ![](assets/proxy-image218.png) 
-{: .text-center }
 
+{: .text-center }
 Description
 
 {: .text-left }
