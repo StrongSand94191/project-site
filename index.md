@@ -18,4 +18,7 @@ Suspendisse augue magna, maximus non finibus ac, fringilla in nunc. Aliquam vehi
 #### Heading 3
 Sed ut molestie odio, vel efficitur odio. Nunc consequat aliquam dolor in luctus. Nullam viverra mauris at justo consectetur, eget egestas ante feugiat. Vestibulum porttitor porta ipsum finibus ultricies. Mauris at tristique justo. Ut vulputate semper ex, sed mattis augue. Curabitur vitae ante at lacus luctus scelerisque eget ut enim. Curabitur sed libero ac lacus sodales interdum. Nullam vel fermentum metus. Morbi quis diam libero. 
 
+## Pictures
+![](../../assets/proxy-image218.png) 
+
 [Next: Problem Statement](https://strongsand94191.github.io/project-site/problemstatement.html){: .btn .float-right .mb-5}
