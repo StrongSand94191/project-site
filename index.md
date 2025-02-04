@@ -21,7 +21,7 @@ Sed ut molestie odio, vel efficitur odio. Nunc consequat aliquam dolor in luctus
 ## Pictures
 
 
-### Alex G.
+### Alex Grigoriadis
 {: .text-center }
 ![](assets/proxy-image218.png) 
 {: .text-center }
@@ -37,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec magna urna
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec magna urna. Nullam malesuada nisl quis mauris condimentum fringilla. Nulla nec nisl viverra, varius arcu quis, viverra diam.
 {: .text-center }
 
-### Draylen
+### Draylen Nesby
 {: .text-center }
 ![](assets/proxy-image218.png) 
 {: .text-center }
