@@ -21,21 +21,36 @@ Sed ut molestie odio, vel efficitur odio. Nunc consequat aliquam dolor in luctus
 ## Pictures
 
 {: .text-center }
+### Alex G.
+{: .text-center }
 ![](assets/proxy-image218.png) 
+{: .text-center }
 
-Alex G.
+Description
 
+{: .text-center }
+### Raven
+{: .text-center }
 ![](assets/proxy-image218.png) 
+{: .text-center }
 
-Raven
+Description
 
+{: .text-center }
+### Draylen
+{: .text-center }
 ![](assets/proxy-image218.png) 
+{: .text-center }
 
-Draylen
+Description
 
+{: .text-center }
+### Draylin
+{: .text-center }
 ![](assets/proxy-image218.png) 
+{: .text-center }
 
-Draylin
+Description
 
 {: .text-left }
 ## Everything Else
