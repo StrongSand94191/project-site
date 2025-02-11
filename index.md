@@ -22,7 +22,7 @@ Our extenuating circumstance is flooding. Flooding impacts energy availability b
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec magna urna. Nullam malesuada nisl quis mauris condimentum fringilla. Nulla nec nisl viverra, varius arcu quis, viverra diam.
 {: .text-center }
 
-### Raven Heidt
+### Nahla Heidt
 {: .text-center }
 ![](assets/proxy-image218.png) 
 {: .text-center }
