@@ -8,7 +8,7 @@ nav_order: 2
 - Region identity and explanation for why it was chosen
 
 ## Design Statement
-> We, as engineers, will design, test, and build solutions to protect energy infrastructure against flooding in Southeast Asia and create solutions to upgrade the existing infrastructure in realistic, ethical, and resilient ways because Southeast Asia is commonly affected by floods that can damage the vital energy infrastructure that many need to go about their lives.
+> We, as engineers, will design, test, and build solutions to protect energy infrastructure against flooding in Southeast Asia and create solutions to upgrade the existing infrastructure in realistic, ethical, and resilient ways because Southeast Asia is commonly affected by floods that can damage the vital energy infrastructure that many need to go about their lives. These solutions must be green, sustainable, cost-effective, and realistically viable.
 - Explanation/background on the development of the Design Statement
 
 [Previous: Home](https://strongsand94191.github.io/project-site/){: .btn .mb-5 }
