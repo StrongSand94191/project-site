@@ -5,9 +5,9 @@ nav_order: 5
 ---
 # Engineering Solution
 
-Our engineering solution is to create a commerical battery for civillians which helps store power for when it starts flooding and you lose power because it started flooding in your area. To ensure equal acess to energy it is a battery that comes with a wireless charger that can charge at anytime of the day or night which can help give power to your entire house and it comes in a pack of 5. Once the battery is charged you can now put it inside of a generator which can help spread power to not only you but also your neighbors. Also our battery comes with it owns generator which can be turned on by clicking the button that is on it once the battery is charged.
+Our engineering solution is a battery for civilians. It ensures equal access to energy by ensuring that individuals can still access energy for a limited amount of time in the event of blackouts. These blackouts usually last for 12-14 hours. It can be installed in a home to store excess energy and output 16 hours worth of energy to power an upper-class home. This amounts to 295 kWh. Assuming advancements in energy technology go well, the price of a battery per kWh, which is currently $36 [citation needed] could go as low as $3. [https://www.store-dot.com/blog/what-role-can-the-silicon-anode-play-in-reducing-battery-costs-to-accelerate-mass-ev-adoption]
 
-This solution provides energy by charging the battery and then once it is charged put it in the generator that it came with and then use the power as responsible and also as needed. Although it is very effective it can be very pricey and would also take lots of time to dig up the ground and then put the generator in there then hide it that way if it does flood then you would know that you still have some type of power to do daily things in your house without worrying about not being able to this and not be able to that 
+This would mean that this battery, which would cost $10,200 with today’s technology, could cost as little as $880.
 
 [Previous: Social Solution](https://strongsand94191.github.io/project-site/socialsolution.html){: .btn .mb-5}
 [Next: Citations](https://strongsand94191.github.io/project-site/citations.html){: .btn .float-right .mb-5 }
