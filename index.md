@@ -10,6 +10,10 @@ nav_order: 1
 
 Our extenuating circumstance is flooding. Flooding impacts energy availability by damaging energy infrastructure like power lines and making energy access points (such as homes) inaccessible or destroying them altogether.
 
+Floods are dangerous
+They steal energy from us
+In Southeast Asia
+
 ## Pictures
 
 ### Alex Grigoriadis
