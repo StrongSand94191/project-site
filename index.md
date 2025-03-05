@@ -3,9 +3,7 @@ title: Home
 layout: home
 nav_order: 1
 ---
-# Home
 
-This is the website for the Cohort 3 project: **Power Dynamics.** We are Group 2.
 
 ## Driving Question
 > "How can we, as engineers, ensure access to energy despite extenuating circumstances?"
@@ -47,5 +45,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec magna urna
 {: .text-center }
 
 {: .text-left }
+
+This is the website for the Cohort 3 project: **Power Dynamics.** We are Group 2.
 
 [Next: Problem Statement](https://strongsand94191.github.io/project-site/problemstatement.html){: .btn .float-right .mb-5}
