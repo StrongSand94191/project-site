@@ -18,7 +18,7 @@ In Southeast Asia
 
 ### Alex Grigoriadis
 {: .text-center }
-![](assets/proxy-image218.png) 
+![thumbnail_IMG_9662](https://github.com/user-attachments/assets/33856e10-d3ff-4b5e-ba2b-eb02cef2958e)
 {: .text-center }
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec magna urna. Nullam malesuada nisl quis mauris condimentum fringilla. Nulla nec nisl viverra, varius arcu quis, viverra diam.
@@ -33,7 +33,12 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec magna urna
 {: .text-center }
 
 ### Draylan Nesby
+{: .text-center }
+![IMG_20250306_135527](https://github.com/user-attachments/assets/60a8a1bf-d47a-4948-8cfb-9eb041a148f9)
+{: .text-center }
 Hi my Draylan Nesby and I did the citations part, and I did the engineering solution part
+{: .text-center }
+
 ### Draylin Smith
 {: .text-center }
 ![](assets/proxy-image218.png) 
