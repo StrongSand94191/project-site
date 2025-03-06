@@ -33,9 +33,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec magna urna
 {: .text-center }
 
 ### Draylan Nesby
-{: .text-center }
-![](assets/proxy-image218.png) 
-{: .text-center }
+{: .![IMG_9461](https://github.com/user-attachments/assets/484dfddf-63cf-4aa3-a2af-6aec5891ad29)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec magna urna. Nullam malesuada nisl quis mauris condimentum fringilla. Nulla nec nisl viverra, varius arcu quis, viverra diam.
 {: .text-center }
