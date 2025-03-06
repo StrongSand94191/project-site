@@ -36,7 +36,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec magna urna
 {: .text-center }
 ![IMG_9461](https://github.com/user-attachments/assets/484dfddf-63cf-4aa3-a2af-6aec5891ad29)
 {: .text-center }
-Hi my Draylan Nesby and I did the citations part,
+Hi my Draylan Nesby and I did the citations part, and the engineering solution part
 ### Draylin Smith
 {: .text-center }
 ![](assets/proxy-image218.png) 
