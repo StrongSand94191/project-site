@@ -26,7 +26,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec magna urna
 
 ### Nahla Heidt
 {: .text-center }
-![](assets/proxy-image218.png) 
+![thumbnail_IMG_9638](https://github.com/user-attachments/assets/d5727c80-c5e4-4b38-9afa-ec45d209fffd)
 {: .text-center }
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec magna urna. Nullam malesuada nisl quis mauris condimentum fringilla. Nulla nec nisl viverra, varius arcu quis, viverra diam.
