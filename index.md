@@ -33,10 +33,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent nec magna urna
 {: .text-center }
 
 ### Draylan Nesby
-{: .text-center }
-{: .text-center }
-Hi my Draylan Nesby and I did the citations part, and I did the engineering solution part
-{: .text-center }
+![IMG_9462](https://github.com/user-attachments/assets/eaf16228-d4f8-4b1a-8d5b-534f695e134d)
+Hi my Draylan Nesby and I did the citations part, and I did the engineering solution part, the citations, the decision matrix and had some help on the social solution
 
 ### Draylin Smith
 {: .text-center }
