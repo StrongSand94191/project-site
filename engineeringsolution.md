@@ -9,5 +9,7 @@ Our engineering solution is a battery for civilians. It ensures equal access to 
 
 This would mean that this battery, which would cost $10,200 with today’s technology, could cost as little as $880.
 
+![image](https://github.com/user-attachments/assets/4028c06b-9e5c-48f3-8023-53361702d39a)
+
 [Previous: Social Solution](https://strongsand94191.github.io/project-site/socialsolution.html){: .btn .mb-5}
 [Next: Citations](https://strongsand94191.github.io/project-site/citations.html){: .btn .float-right .mb-5 }
